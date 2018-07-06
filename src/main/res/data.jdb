@@ -1,0 +1,3 @@
+STRSET MSG "HELLO WORLD"
+JSET POEMINFO {"poemBirthaddr":"中国 福州","poemBirthday":1527919197587,"poemWriter":"顾城","poemContent":"草 在结它的种子\r\n风 在摇它的叶子\r\n我们站着 不说话 \r\n就十分美好","poemStatus":"Y","poemId":2,"poemTitle":"门前","poemLeft":"50%","poemDescribe":"我爱这纯白的午后，一如裙裾飞扬而来的你","poemTop":"50%"}
+JSET WEBSITEINFO {"websiteName":"未绪小站","websiteId":1,"copyright":"Copyright ©2018 WEIXUBLOG.XYZ 皖ICP备18008693号","websiteStatus":"Y","csdnAddr":"http://blog.csdn.net/zjq_1314520","websiteCover":"http://p7idy9jq3.bkt.clouddn.com/weixu-cover-1.jpg","githubAddr":"https://github.com/weixublog"}
