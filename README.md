@@ -1,5 +1,6 @@
 # JoonerDb
 一个用Java语言实现的K-V数据库
+详细见文档 https://github.com/weixublog/joonerdb/blob/master/src/doc/JoonerDB%20%E6%96%87%E6%A1%A3.doc
 有关命令如下
 ### 集合（SET） 指令
 （1）SINTER key1 key2
